@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+/* Banner */
+.banner {
+    padding: 15px 20px;
+    display: flex;
+    align-items: center;
+}
+
+.oscuro {
+    background-color: #333;
+}
+
+.badge {
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.rojo {
+    background-color: red;
+    color: white;
+}
+
+.texto {
+    color: white;
+}
+
+/* Contenido */
+.contenido {
+    padding: 40px;
+}
+
+/* Caja (div principal) */
+.caja {
+    background-color: gray;   /* fondo gris */
+    border: 2px solid black;  /* borde negro */
+    padding: 15px;            /* espacio interno */
+}
+
+/* Texto */
+h1 {
+    font-size: 28px;
+}
+
+p {
+    font-size: 18px;
+}

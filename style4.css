@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+/* Banner */
+.banner {
+    padding: 15px 20px;
+    display: flex;
+    align-items: center;
+}
+
+.morado {
+    background: linear-gradient(to right, #4c1d95, #a21caf);
+}
+
+.badge {
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.amarillo {
+    background-color: gold;
+    color: black;
+}
+
+.texto {
+    color: white;
+}
+
+/* Contenido */
+.contenido {
+    padding: 40px;
+}
+
+/* Imagen */
+.logo {
+    width: 80px;
+    margin-bottom: 20px;
+}
+
+/* Texto */
+h1 {
+    font-size: 35px;
+}
+
+p {
+    font-size: 18px;
+}

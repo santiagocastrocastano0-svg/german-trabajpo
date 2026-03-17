@@ -1,0 +1,55 @@
+body {
+    font-family: Georgia, 'Times New Roman', serif;
+    background-color: #f2f2f2;
+    margin: 0;
+}
+
+/* Banner */
+.banner {
+    padding: 15px 20px;
+    display: flex;
+    align-items: center;
+}
+
+/* Verde para ejercicio 2 */
+.verde {
+    background-color: #16a34a;
+}
+
+/* Badge */
+.badge {
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+/* Badge blanco */
+.blanco {
+    background-color: white;
+    color: #16a34a;
+}
+
+.texto {
+    color: white;
+    font-size: 14px;
+}
+
+/* Contenido */
+.contenido {
+    padding: 40px;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+ul {
+    font-size: 18px;
+}
+
+li {
+    margin-bottom: 5px;
+}

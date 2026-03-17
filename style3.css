@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+/* Banner */
+.banner {
+    padding: 15px 20px;
+    display: flex;
+    align-items: center;
+}
+
+/* Colores del banner */
+.morado {
+    background: linear-gradient(to right, #4c1d95, #6d28d9);
+}
+
+/* Badge */
+.badge {
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+/* Badge amarillo */
+.amarillo {
+    background-color: gold;
+    color: black;
+}
+
+.texto {
+    color: white;
+    font-size: 14px;
+}
+
+/* Contenido */
+.contenido {
+    padding: 40px;
+}
+
+/* Fondo azul claro */
+.azul {
+    background-color: #87c7d3;
+}
+
+/* Título rojo */
+h1 {
+    color: red;
+    font-size: 40px;
+}
+
+/* Párrafo de 20px */
+p {
+    font-size: 20px;
+}
